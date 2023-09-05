@@ -1,0 +1,13 @@
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\webappwithsqldb.exe
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\webappwithsqldb.dll
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\webappwithsqldb.deps.json
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\webappwithsqldb.runtimeconfig.json
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\webappwithsqldb.pdb
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\z004685z\source\repos\AZ-204\MyAzureSolution\MyAzureSolution\webappwithsqldb\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

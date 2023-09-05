@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="webappwithsqldbyogesh__Staging" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\z004685z\\source\\repos\\AZ-204\\MyAzureSolution\\MyAzureSolution\\webappwithsqldb\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
